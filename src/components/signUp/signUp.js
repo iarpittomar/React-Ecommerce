@@ -68,7 +68,7 @@ class SignUp extends Component {
           ></FormInput>
           <FormInput
             type="password"
-            name="passord"
+            name="password"
             value={password}
             label="Password"
             onChange={this.handleChange}
